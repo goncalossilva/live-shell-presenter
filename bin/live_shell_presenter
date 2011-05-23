@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require 'live_shell_presenter'
+
+lsp = LiveShellPresenter::Base.new
+lsp.start
+
