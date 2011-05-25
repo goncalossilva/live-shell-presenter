@@ -1,1 +1,1 @@
-require 'live_shell_presenter/cli'
+require_relative 'live_shell_presenter/base'
